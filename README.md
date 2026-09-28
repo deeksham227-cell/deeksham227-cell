@@ -84,6 +84,4 @@ A project focused on analyzing agricultural factors such as **soil type, tempera
 
 ---
 
-### ✨ Thanks for visiting my profile!
 
-⭐ Feel free to explore my repositories and connect with me.
