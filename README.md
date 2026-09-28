@@ -41,7 +41,7 @@ I enjoy learning new technologies, building practical projects, and continuously
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
-🌐 Contact Me
+**🌐 Contact Me**
 
 <p>
 <a href="https://linkedin.com/in/deeksha-m-162178301">
@@ -56,6 +56,7 @@ I enjoy learning new technologies, building practical projects, and continuously
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
+
 
 
 
