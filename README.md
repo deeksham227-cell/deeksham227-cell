@@ -58,9 +58,6 @@ I enjoy learning new technologies, building practical projects, and continuously
 </p>
 
 
-
-
-
 ## 🚀 Projects I've Built
 
 ### 🥕 Local Food Marketplace
@@ -69,7 +66,7 @@ A web-based marketplace designed to connect **farmers directly with buyers**, ma
 
 **Technologies:** HTML, CSS, JavaScript
 
-🔗 [View Project](https://github.com/deeksham227-cell)
+🔗 [View Project](https://github.com/deeksham227-cell/Local-Food-Marketplace)
 
 ---
 
@@ -79,9 +76,8 @@ A project focused on analyzing agricultural factors such as **soil type, tempera
 
 **Technologies:** Python, HTML, CSS
 
-🔗 [View Project](https://github.com/deeksham227-cell)
+🔗 [View Project](https://github.com/deeksham227-cell/Crop_yield_prediction_and_analysis)
 
----
 
 ## 📊 GitHub Stats
 
