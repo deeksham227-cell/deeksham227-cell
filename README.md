@@ -41,15 +41,6 @@ I enjoy learning new technologies, building practical projects, and continuously
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
-### 🤖 AI & ML
-
-<p>
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-00A67E?style=for-the-badge"/>
-</p>
-
-
 ## 🌐 Connect With Me
 
 <p>
