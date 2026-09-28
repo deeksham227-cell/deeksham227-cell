@@ -12,7 +12,7 @@ I enjoy learning new technologies, building practical projects, and continuously
 
 🎓 B.E. Artificial Intelligence & Machine Learning Student
 🤖 Aspiring AI & ML Engineer
-🐍 Currently learning Python, AI & Machine Learning
+🐍 Currently learning Python
 🧠 Interested in Artificial Intelligence, Machine Learning & NLP
 💻 Building practical projects to strengthen my development skills
 🌱 Always learning and exploring new technologies
