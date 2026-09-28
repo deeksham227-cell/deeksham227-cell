@@ -1,79 +1,55 @@
-# Hi, I'm Deeksha M 👋
+# Hi there 👋 I'm Deeksha M
 
-### 🤖 Aspiring AI & ML Engineer
-
-I'm a **B.E. Artificial Intelligence & Machine Learning student** passionate about Artificial Intelligence, Machine Learning, Python, and Natural Language Processing.
-
-I enjoy learning new technologies, building practical projects, and continuously improving my programming and problem-solving skills.
-
----
+🎓 B.E. Artificial Intelligence & Machine Learning Student  
+💻 Aspiring AI & ML Engineer  
+🐍 Interested in Python, AI, ML & NLP  
+🌱 Currently learning and improving my technical skills
 
 ## 🚀 About Me
 
-🎓 B.E. Artificial Intelligence & Machine Learning Student
-🤖 Aspiring AI & ML Engineer
-🐍 Currently learning Python, AI & Machine Learning
-🧠 Interested in Artificial Intelligence, Machine Learning & NLP
-💻 Building practical projects to strengthen my development skills
-🌱 Always learning and exploring new technologies
+I'm an Artificial Intelligence & Machine Learning student passionate about building practical and intelligent solutions.
 
----
+- 🔭 I'm working on improving my skills in AI, ML and Python
+- 🌱 I'm currently learning Artificial Intelligence, Machine Learning and NLP
+- 💻 I enjoy developing web projects and exploring AI-based applications
+- 👯 I'm open to collaborating on interesting projects
+- 💬 Ask me about Python, HTML, CSS, AI and ML
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/deeksha-m-162178301)
+- ⚡ Fun fact: I enjoy learning new technologies and turning ideas into projects!
 
-## 🛠️ Languages and Tools
+## 🛠️ Skills
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,html,css,git,github,vscode" />
-</p>
+**Programming:**  
+Python | C
 
-**Tools & Platforms:** Jupyter Notebook • Tableau • Power BI • Microsoft Excel
+**Web Technologies:**  
+HTML | CSS
 
-**Interests:** Artificial Intelligence • Machine Learning • NLP
+**AI & ML:**  
+Artificial Intelligence | Machine Learning | NLP
 
----
+**Tools:**  
+VS Code | Jupyter Notebook | Git | GitHub | Power BI | Tableau | Microsoft Excel
 
-## 🌐 Connect With Me
-
-<p>
-<a href="https://github.com/deeksham227-cell">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/deeksha-m-162178301">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</p>
-
----
-
-## 🚀 Projects I've Built
+## 📌 Projects
 
 ### 🥕 Local Food Marketplace
-
-A web-based marketplace designed to connect **farmers directly with buyers**, making it easier to explore products and manage purchases.
-
-**Technologies:** HTML, CSS, JavaScript
-
-🔗 [View Project](https://github.com/deeksham227-cell)
-
----
+A web-based marketplace designed to connect farmers directly with buyers.
 
 ### 🌾 Crop Yield Prediction and Analysis
+A project focused on analyzing agricultural factors such as soil, rainfall, temperature and humidity to understand crop yield.
 
-A project focused on analyzing agricultural factors such as **soil type, temperature, humidity, rainfall, and crop variety** to understand crop yield.
+## 📜 Certifications & Activities
 
-**Technologies:** Python, HTML, CSS
+- C Programming – Simplilearn
+- Programming Fundamentals in Python – Infosys Springboard
+- Deloitte Data Analytics Virtual Experience Program
+- Codomax Digital Solutions Internship
+- Quantum Quest 24-Hour Hackathon
+- Project Exhibition 2025–26
 
-🔗 [View Project](https://github.com/deeksham227-cell)
+## 🤝 Connect With Me
 
----
+🔗 [LinkedIn](https://linkedin.com/in/deeksha-m-162178301)
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=deeksham227-cell&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-### ✨ Thanks for visiting my profile!
-
-⭐ Feel free to explore my repositories and connect with me.
+💻 [GitHub](https://github.com/deeksham227-cell)
