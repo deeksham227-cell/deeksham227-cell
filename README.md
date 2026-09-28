@@ -78,10 +78,6 @@ A project focused on analyzing agricultural factors such as **soil type, tempera
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=deeksham227-cell&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
 
----
 
 
