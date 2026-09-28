@@ -57,16 +57,13 @@ I enjoy learning new technologies, building practical projects, and continuously
 </a>
 </p>
 
-
-## 🚀 Projects I've Built
-
 ### 🥕 Local Food Marketplace
 
 A web-based marketplace designed to connect **farmers directly with buyers**, making it easier to explore products and manage purchases.
 
 **Technologies:** HTML, CSS, JavaScript
 
-🔗 [View Project](https://github.com/deeksham227-cell/Local-Food-Marketplace)
+🔗 [View Project](https://github.com/deeksham227-cell/Local_Food_Marketplace)
 
 ---
 
